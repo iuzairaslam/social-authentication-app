@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116202620120",
+    "project_id": "authlogin-78148",
+    "storage_bucket": "authlogin-78148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116202620120:android:033ebc28aad5d80d0083ad",
+        "android_client_info": {
+          "package_name": "auth.uzairaslam.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116202620120-ppdh0uqgq926mp1mdr9d48vr21tpf2n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "auth.uzairaslam.auth",
+            "certificate_hash": "3194d2acd0592e761cba8490ec49ee1aab0306cc"
+          }
+        },
+        {
+          "client_id": "116202620120-8lbktk0ksr2qsbm9pcj4j8csohe10l80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9yIO0e8DiSMwJRG003xA1bJbSwVKMug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116202620120-8lbktk0ksr2qsbm9pcj4j8csohe10l80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
